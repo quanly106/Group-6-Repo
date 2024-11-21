@@ -3,8 +3,8 @@ Status Report for _Last Day of Week_
 
 # Project Status
 
-What has your team accomplished over the past week?
-Presona and Scanrios
+What has your team accomplished over the past week? \n
+Personas and Scanrios
 Team Charter/ Product Vision
 * Item _n_
 
