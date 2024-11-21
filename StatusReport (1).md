@@ -6,12 +6,12 @@ Status Report for _Last Day of Week_
 What has your team accomplished over the past week? 
 
 
-Personas and Scanrios
-Team Charter/ Product Vision
+*Personas and Scanrios
+*Team Charter/ Product Vision
 
 
 What does your team plan to accomplish over the next week?
-* Item 1
+* Coming up with new ideas regarding the product
 * Item 2
 * Item _n_
 
