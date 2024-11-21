@@ -16,7 +16,7 @@ What does your team plan to accomplish over the next week?
 * Item _n_
 
 What, if anything, is preventing your team from making progress?
-* Item 1
+* Nothing is preventing my team from making progress at this time
 * Item 2
 * Item _n_
 
