@@ -4,8 +4,8 @@ Status Report for _Last Day of Week_
 # Project Status
 
 What has your team accomplished over the past week?
-* Item 1
-* Item 2
+Presona and Scanrios
+Team Charter/ Product Vision
 * Item _n_
 
 What does your team plan to accomplish over the next week?
