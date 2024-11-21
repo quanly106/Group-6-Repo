@@ -24,28 +24,28 @@ What, if anything, is preventing your team from making progress?
 
 Each team member should list their tasks from the last week, along with time spent on each. This will be useful for improving your ability to plan going forward, since you will be able to look back to see how long tasks actually took.
 
-## Member 1
+## Member 1 Quinn Cestone
 
-* Task 1, hours/minutes spent
-* Task 2, hours/minutes spent
-* Task _n_, hours/minutes spent
+* Team charters,  50 minutes spent
+* Design the box, 1 hour spent
+* Personas and scenarios, 2hours spent
 
-## Member 2
+## Member 2 Fletcher
 
-* Task 1, hours/minutes spent
-* Task 2, hours/minutes spent
-* Task _n_, hours/minutes spent
+* Team charters,  50 minutes spent
+* Design the box, 1 hour spent
+* Personas and scenarios, 2hours spent
 
-## Member _n_
+## Member 3 Keona
 
-* Task 1, hours/minutes spent
-* Task 2, hours/minutes spent
-* Task _n_, hours/minutes spent
+* Team charters,  50 minutes spent
+* Design the box, 1 hour spent
+* Personas and scenarios, 2hours spent
 
 # Team Meeting Attendance
 
 Which team members were present at your weekly meetings? You should have at least one scheduled, with a second scheduled as a backup in case you need one.
 
-* Meeting 1: _list the team members here_
-* Meeting 2: _list the team members here_
+* Meeting 1: Quinn, Fletcher, Keona
+
 
