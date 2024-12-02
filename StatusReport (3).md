@@ -44,6 +44,6 @@ Each team member should list their tasks from the last week, along with time spe
 
 Which team members were present at your weekly meetings? You should have at least one scheduled, with a second scheduled as a backup in case you need one.
 
-* Meeting 1: Quinn Cestone
+* Meeting 1: Quinn Cestone, Hoang Quan Ly
 * Meeting 2: _list the team members here_
 
