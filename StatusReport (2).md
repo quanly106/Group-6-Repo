@@ -22,7 +22,7 @@ What, if anything, is preventing your team from making progress?
 
 Each team member should list their tasks from the last week, along with time spent on each. This will be useful for improving your ability to plan going forward, since you will be able to look back to see how long tasks actually took.
 
-## Member 1
+## Member 1 Quinn Cestone
 
 * Status report 1hours/minutes spent
 * git hub, 2 hours/minutes spent
